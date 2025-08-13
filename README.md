@@ -36,6 +36,10 @@ ESP32 receives commands such as `"living_room_light:1"` from the Flutter app and
 </p>
 
 
+### Hardware Setup
+
+https://github.com/user-attachments/assets/203a3d95-0419-44ed-b057-4e7cee84a488
+
 ---
 
 ## 🛠️ Features
