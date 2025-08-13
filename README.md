@@ -27,11 +27,11 @@ ESP32 receives commands such as `"living_room_light:1"` from the Flutter app and
 
 **Dashboard Process :-**
 
-  <img width="30%" alt="Process 1" src="https://github.com/user-attachments/assets/3583135c-abc4-4f9f-bd54-71927e682fd2" />
+  <img width="20%" alt="Process 1" src="https://github.com/user-attachments/assets/3583135c-abc4-4f9f-bd54-71927e682fd2" />
 
-  <img width="30%" alt="Process 2" src="https://github.com/user-attachments/assets/b6e692bf-2d74-4b02-b2d1-fcb690d530d9" />
-  <img width="30%" alt="Process 3" src="https://github.com/user-attachments/assets/68acf3a9-12ec-4e40-89dc-ccf1871359a7" />
-  <img width="30%" alt="Process 4" src="https://github.com/user-attachments/assets/62753105-7258-4d61-80c4-3695a1051ae1" />
+  <img width="20%" alt="Process 2" src="https://github.com/user-attachments/assets/b6e692bf-2d74-4b02-b2d1-fcb690d530d9" />
+  <img width="20%" alt="Process 3" src="https://github.com/user-attachments/assets/68acf3a9-12ec-4e40-89dc-ccf1871359a7" />
+  <img width="20%" alt="Process 4" src="https://github.com/user-attachments/assets/62753105-7258-4d61-80c4-3695a1051ae1" />
 
 </p>
 
