@@ -15,17 +15,20 @@ ESP32 receives commands such as `"living_room_light:1"` from the Flutter app and
 ### Flutter App Screens
 <p align="center">
 <p>First Screen : Splash Screen</P>
-  <img src="../Downloads/the dplash screen.jpg" alt="Splash Screen" width="30%">
+![the dplash screen](https://github.com/user-attachments/assets/fff61883-c6c6-439a-9508-d7379b85efb4)
+
   <p>Second Screen : Login Screen</P>
-  <img src="../Downloads/the login screen.jpg" alt="login screen" width="30%">
+  ![the login screen](https://github.com/user-attachments/assets/150f78c3-56b4-4092-923b-dac8852f7dde)
+
   <p>Third Screen : Dashboard Screen</P>
 
 **Dashboard Process :-**
 
-  <img src="../Downloads/dashboardWithpotConnect.jpg" alt="Dashboard Screen" width="30%">
-  <img src="../Downloads/connectProcess1.jpg" alt="Dashboard Screen" width="30%">
-  <img src="../Downloads/connectProcess.jpg" alt="Dashboard Screen" width="30%">
-  <img src="../Downloads/dashboardWithConnect.jpg" alt="Dashboard Screen" width="30%">
+![dashboardWithpotConnect](https://github.com/user-attachments/assets/3583135c-abc4-4f9f-bd54-71927e682fd2)
+![connectProcess1](https://github.com/user-attachments/assets/b6e692bf-2d74-4b02-b2d1-fcb690d530d9)
+![connectProcess](https://github.com/user-attachments/assets/68acf3a9-12ec-4e40-89dc-ccf1871359a7)
+![dashboardWithConnect](https://github.com/user-attachments/assets/62753105-7258-4d61-80c4-3695a1051ae1)
+
 </p>
 
 
