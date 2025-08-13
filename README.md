@@ -1,8 +1,8 @@
 
 # 🔐 Smart Home Control with ESP32 & Flutter App
 
-A smart home project using **ESP32** with **Bluetooth** to control home devices (like lights) via a **Flutter mobile application**.  
-The ESP32 receives commands from the app and controls connected devices accordingly.
+## 📝 Description
+This project brings smart home automation to life using **ESP32**, **AVR microcontrollers**, and **Arduino** for robust device control, paired with a **Flutter mobile app** for seamless user interaction. Control home devices like lights via Bluetooth, with the ESP32 and AVR handling commands from the app, enhanced by Arduino's reliable programming environment. Features include RFID door access, room occupancy detection, and fan speed control, all built on a modular code structure (APP, HAL, MCAL) for scalability and easy expansion. Perfect for DIY enthusiasts looking to create a customizable, secure, and automated home.
 
 <img width="1536" height="1024" alt="control" src="https://github.com/user-attachments/assets/f7f89f42-e34c-4e80-8271-b208f79a6217" />
 
@@ -109,10 +109,12 @@ ESP32_Project/
 
 ## 🧰 Technologies Used
 
-- **ESP32** (Arduino Core)
-- **Bluetooth Serial (SPP)**
-- **Flutter** (for the mobile app)
-- **C / C++** for embedded code
+- **ESP32** (Arduino Core)  
+- **AVR Microcontrollers**  
+- **Arduino** (programming environment)  
+- **Bluetooth Serial** (SPP)  
+- **Flutter** (mobile app)  
+- **C/C++** (embedded code)  
 
 ---
 
