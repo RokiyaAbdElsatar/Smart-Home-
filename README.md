@@ -15,10 +15,13 @@ ESP32 receives commands such as `"living_room_light:1"` from the Flutter app and
 ### Flutter App Screens
 <p align="center">
 <p>First Screen : Splash Screen</P>
-![the dplash screen](https://github.com/user-attachments/assets/fff61883-c6c6-439a-9508-d7379b85efb4)
+
+![the dplash screen](https://github.com/user-attachments/assets/3f057ad1-ff5e-41d0-91a9-11ba86d47d62)
 
   <p>Second Screen : Login Screen</P>
-  ![the login screen](https://github.com/user-attachments/assets/150f78c3-56b4-4092-923b-dac8852f7dde)
+  
+![the login screen](https://github.com/user-attachments/assets/65f0f4ab-c075-4fda-a3bd-1a7c2a7e5c65)
+
 
   <p>Third Screen : Dashboard Screen</P>
 
