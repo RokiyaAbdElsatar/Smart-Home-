@@ -44,11 +44,46 @@ https://github.com/user-attachments/assets/203a3d95-0419-44ed-b057-4e7cee84a488
 
 ## 🛠️ Features
 
-- Control home devices via Bluetooth from a Flutter mobile app  
-- Simple command format: `device_name:state`  
-- Real-time status update via Serial Monitor  
-- Modular code structure (**APP – HAL – MCAL**) for scalability  
-- Easy to add new devices and commands
+
+1-  🔐 RFID Door Access System
+
+ - Reads the card using an RFID module.
+
+ - Displays the access result on an LCD screen.
+
+ - If the card is invalid, the Buzzer is activated and "Access Denied" is shown.
+
+ - If the card is valid, a Servo Motor opens the door for a set duration, displaying "Access Granted".
+
+2- 👤 Room Occupancy Detection (Ultrasonic)
+
+ - Uses an Ultrasonic Sensor to detect if someone is inside the room.
+
+ - Automatically turns LED ON when a person is detected, and OFF when the room is empty.
+
+3- 💨 Fan Speed Control
+
+ - Controls the fan using three switches:
+
+ - Switch 1: Low speed (30%).
+
+ - Switch 2: Medium speed (60%).
+
+ - Switch 3: Turns the fan OFF.
+
+4- 📱 Bluetooth Home Device Control (via Flutter Mobile App)
+
+ - Control home devices via Bluetooth from a Flutter mobile application.
+
+ - Simple command format: device_name:state.
+
+ - Real-time device status updates via Serial Monitor.
+
+
+5- Modular code structure (APP – HAL – MCAL) for easy scalability.
+
+6- Easily extendable to add new devices and commands.
+
 
 ---
 
