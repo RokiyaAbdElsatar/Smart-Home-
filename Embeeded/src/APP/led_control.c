@@ -1,7 +1,7 @@
 #include <stdint.h>
 #include "APP/led_control.h"
 #include "MCAL/gpio.h"
-#include "config/motor_config.h" // reuse switch if desired
+#include "config/motor_config.h" 
 
 #ifndef LED_MANUAL_PORT
 #define LED_MANUAL_PORT  GPIO_PORTB
