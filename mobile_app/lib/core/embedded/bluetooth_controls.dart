@@ -41,7 +41,7 @@ class BluetoothControls {
   void sendData({required String type, required String state}) {
   if (connection != null && connection!.isConnected) {
     print("🌀Type: $type\n📤 Sending: $state");
-    String combined = "$type:$state"; // ممكن ترسلي بصيغة "type:state"
+    String combined = "$type:$state"; 
     connection!.output.add(Uint8List.fromList(combined.codeUnits));
     connection!.output.allSent;
   } else {
