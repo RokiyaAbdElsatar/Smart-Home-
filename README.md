@@ -130,7 +130,7 @@ ESP32_Project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Smart-Home-ESP32.git
+   git clone https://github.com/RokiyaAbdElsatar/Smart-Home-.git
    ```
 
 2. Open the ESP32 project in Arduino IDE.
